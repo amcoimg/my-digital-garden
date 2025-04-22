@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/08//notes//pest/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":false,"permalink":"/08//notes//pest/","dgPassFrontmatter":true}
 ---
 
 
