@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/08//catalogue/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/商业分析师/catalogue/","dgPassFrontmatter":true}
 ---
 
 # 商业分析师技能体系学习大纲

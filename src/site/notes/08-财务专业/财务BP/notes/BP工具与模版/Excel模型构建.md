@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/08/bp/notes/bp/excel/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BP/notes/BP工具与模版/Excel模型构建/","dgPassFrontmatter":true}
 ---
 
 
