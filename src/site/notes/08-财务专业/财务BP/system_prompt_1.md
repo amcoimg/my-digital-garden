@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/08-财务专业/财务BP/system_prompt_1/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"/08-财务专业/财务BP/system_prompt_1/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
----  
-dg-publish:true
-dg-home:true
----
 
 **项目目标：**
 借助本工作目录及您的协助，系统性地、循序渐进地学习财务BP(Business Plan/Budget Planning)，将专业知识转化为个人化的、易于理解和回顾的 Obsidian 笔记。
