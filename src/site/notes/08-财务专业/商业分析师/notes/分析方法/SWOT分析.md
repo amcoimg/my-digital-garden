@@ -1,5 +1,5 @@
 ---
-{"tags":["战略分析","内外部环境","优势劣势","机会威胁","商业分析","gardenEntry"],"created":"2023-10-30","dg-publish":true,"dg-home":true,"permalink":"/08-财务专业/商业分析师/notes/分析方法/SWOT分析/","dgPassFrontmatter":true}
+{"tags":["内外部环境","战略分析","SWOT","商业分析","gardenEntry"],"created":"2023-10-30","dg-publish":true,"dg-home":true,"permalink":"/08-财务专业/商业分析师/notes/分析方法/SWOT分析/","dgPassFrontmatter":true}
 ---
 
 
