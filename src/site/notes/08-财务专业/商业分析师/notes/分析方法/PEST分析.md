@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/商业分析师/notes/分析方法/PEST分析/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":false,"permalink":"/08//notes//pest/","dgPassFrontmatter":true}
 ---
 
 
