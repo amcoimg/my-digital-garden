@@ -1,5 +1,5 @@
 ---
-{"tags":["宏观环境","战略分析","环境扫描","商业分析","决策支持","gardenEntry"],"created":"2023-10-29","dg-publish":true,"dg-home":true,"permalink":"/08-财务专业/商业分析师/notes/分析方法/PEST分析/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"/08//notes//pest/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 

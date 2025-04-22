@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/08-财务专业/财务BP/system_prompt_1/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"/08/bp/system-prompt-1/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
