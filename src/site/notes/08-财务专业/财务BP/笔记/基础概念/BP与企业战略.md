@@ -12,23 +12,22 @@
 
 ## 财务BP与企业战略的关系模型
 
-<!--
 ```mermaid
 flowchart TD
     A[企业战略] <--> B[财务BP]
-
+    
     A --> C[战略目标制定]
     C --> D[战略目标分解]
     D --> E[财务目标转化]
-
+    
     B --> F[财务可行性验证]
     B --> G[资源优化配置]
     B --> H[执行协调控制]
     B --> I[战略调整反馈]
-
+    
     E --> F
     F --> D
-
+    
     style A fill:#c9e4de,stroke:#333,stroke-width:2px
     style B fill:#c9e4de,stroke:#333,stroke-width:2px
     style C fill:#dbcdf0,stroke:#333,stroke-width:1px
@@ -39,7 +38,6 @@ flowchart TD
     style H fill:#f2c6de,stroke:#333,stroke-width:1px
     style I fill:#f2c6de,stroke:#333,stroke-width:1px
 ```
--->
 
 财务BP与企业战略之间存在双向互动关系：
 - **战略引导BP**：战略确定了企业的发展方向、竞争定位和关键举措，财务BP需要反映这些战略意图
@@ -150,9 +148,8 @@ flowchart TD
 1. 选择一家你熟悉的企业，分析其公开的战略目标如何转化为具体的财务指标和计划。
 2. 讨论在快速变化的市场环境中，如何平衡战略的稳定性与财务BP的灵活性？
 3. 分析一个战略转型失败的企业案例，从财务BP的角度找出可能的问题和改进方向。
-4. 思考不同行业（如科技、制造、服务业）的企业，其战略与财务BP的关系有何不同特点？
+4. 思考不同行业（如科技、制造、服务业）的企业，其战略与财务BP的关系有何不同特点？ 
 
-<!--
 ```mermaid
 flowchart TD
     A[企业战略] --> B[财务规划转化]
@@ -160,26 +157,25 @@ flowchart TD
     B --> D[成本管控目标]
     B --> E[投资扩张计划]
     B --> F[现金流管理]
-
+    
     C --> G[销售预算]
     D --> H[成本预算]
     E --> I[资本支出预算]
     F --> J[现金流预算]
-
+    
     G --> K[财务BP实施]
     H --> K
     I --> K
     J --> K
-
+    
     K --> L[战略执行反馈]
     L --> A
-
+    
     classDef primary fill:#faedcb,stroke:#333,stroke-width:2px
     classDef secondary fill:#c9e4de,stroke:#333,stroke-width:1px
     classDef tertiary fill:#f7d9c4,stroke:#333,stroke-width:1px
-
+    
     class A,B primary
     class C,D,E,F,L secondary
     class G,H,I,J,K tertiary
-```
---> 
+``` 
