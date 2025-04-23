@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/08-财务专业/财务BP/笔记/BP工具与模版/Excel模型构建/"}
 ---
 
-
-# Excel模型构建
-
 #财务BP #Excel #模型构建 #财务建模 #最佳实践
 
 ## 财务模型设计原则
