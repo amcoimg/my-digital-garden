@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/08-财务专业/商业分析师/笔记/分析方法/SWOT分析/"}
 ---
 
-
-# SWOT分析
-
 ## 概述
 
 SWOT分析是一种用于评估组织内部优势(Strengths)、劣势(Weaknesses)以及外部机会(Opportunities)和威胁(Threats)的战略规划工具。这一简单而强大的框架帮助企业全面评估其竞争地位，制定与组织实际情况相匹配的战略，并为决策提供系统化的思考方式。

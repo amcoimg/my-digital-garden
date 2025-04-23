@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/08-财务专业/商业分析师/笔记/分析方法/PEST分析/"}
 ---
 
-
-# PEST分析
-
 ## 概述
 
 PEST分析是一种用于评估宏观环境因素如何影响企业或行业的战略分析工具。PEST是英文Political（政治）、Economic（经济）、Social（社会）和Technological（技术）四个词的首字母缩写。这一方法帮助企业识别外部环境中可能影响其战略决策、业务表现和长期发展的关键驱动因素。
