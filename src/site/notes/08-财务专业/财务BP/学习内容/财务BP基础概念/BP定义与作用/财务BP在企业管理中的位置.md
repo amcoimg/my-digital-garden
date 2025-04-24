@@ -1,5 +1,5 @@
 ---
-{"tags":["财务BP","基础概念","管理体系","战略管理","财务管理"],"aliases":["预算管理定位","财务规划位置","企业BP体系"],"cssclass":"content","dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BP/学习内容/财务BP基础概念/BP定义与作用/财务BP在企业管理中的位置/","dgPassFrontmatter":true}
+{"tags":["财务BP","基础概念","管理体系","战略管理","财务管理"],"aliases":"预算管理定位,财务规划位置,企业BP体系","cssclass":"content","dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BP/学习内容/财务BP基础概念/BP定义与作用/财务BP在企业管理中的位置/","dgPassFrontmatter":true}
 ---
 
 
