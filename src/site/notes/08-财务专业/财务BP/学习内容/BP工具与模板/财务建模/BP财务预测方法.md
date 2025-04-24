@@ -1,5 +1,5 @@
 ---
-{"tags":["财务BP","财务预测","预算管理","建模方法","财务规划"],"aliases":["财务预测技术","预测方法论","业务规划预测"],"created":"2024-03-20","dg-publish":true,"permalink":"/08-财务专业/财务BP/学习内容/BP工具与模板/财务建模/BP财务预测方法/","dgPassFrontmatter":true}
+{"tags":["财务BP","财务预测","预算管理","建模方法","财务规划"],"aliases":"财务预测技术,预测方法论,业务规划预测","created":"2024-03-20","dg-publish":true,"permalink":"/08-财务专业/财务BP/学习内容/BP工具与模板/财务建模/BP财务预测方法/","dgPassFrontmatter":true}
 ---
 
 
