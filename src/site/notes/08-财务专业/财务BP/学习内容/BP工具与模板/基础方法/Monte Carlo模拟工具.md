@@ -1,5 +1,5 @@
 ---
-{"tags":["财务BP","Monte","Carlo模拟","概率分析","风险评估"],"aliases":["蒙特卡洛模拟","概率模拟"],"created":"2023-11-16","dg-publish":true,"permalink":"/08-财务专业/财务BP/学习内容/BP工具与模板/基础方法/Monte Carlo模拟工具/","dgPassFrontmatter":true}
+{"tags":["财务BP","Monte","Carlo模拟","概率分析","风险评估"],"aliases":"蒙特卡洛模拟,概率模拟","created":"2023-11-16","dg-publish":true,"permalink":"/08-财务专业/财务BP/学习内容/BP工具与模板/基础方法/Monte Carlo模拟工具/","dgPassFrontmatter":true}
 ---
 
 
