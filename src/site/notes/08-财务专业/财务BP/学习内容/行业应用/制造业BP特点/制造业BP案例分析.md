@@ -1,5 +1,5 @@
 ---
-{"tags":["财务BP","制造业","案例分析","预算管理","成本管理"],"aliases":["制造业BP案例","制造业预算案例"],"created":"2024-03-20","dg-publish":true,"permalink":"/08-财务专业/财务BP/学习内容/行业应用/制造业BP特点/制造业BP案例分析/","dgPassFrontmatter":true}
+{"tags":["财务BP","制造业","案例分析","预算管理","成本管理"],"aliases":"制造业BP案例,制造业预算案例","created":"2024-03-20","dg-publish":true,"permalink":"/08-财务专业/财务BP/学习内容/行业应用/制造业BP特点/制造业BP案例分析/","dgPassFrontmatter":true}
 ---
 
 
