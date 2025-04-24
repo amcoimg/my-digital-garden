@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-财务专业/财务BP/案例/高科技制造企业BP案例-M公司/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BP/案例/高科技制造企业BP案例-M公司/","dgPassFrontmatter":true}
 ---
 
 # 高科技制造企业BP案例分析：M公司战略转型与全球化扩张

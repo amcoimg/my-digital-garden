@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-财务专业/商业分析师/catalogue/","tags":["商业分析","业务分析","数据分析","决策分析","技能体系","学习大纲"]}
+{"dg-publish":true,"dg-home":false,"tags":["商业分析","业务分析","数据分析","决策分析","技能体系","学习大纲"],"aliases":["业务分析师学习指南","商业分析技能地图"],"cssclass":"catalogue","permalink":"/08-财务专业/商业分析师/catalogue/","dgPassFrontmatter":true}
 ---
 
 # 商业分析师技能体系学习大纲

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-财务专业/财务BP/笔记/行业应用/服务业BP特点/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BP/笔记/行业应用/服务业BP特点/","dgPassFrontmatter":true}
 ---
 
 #财务BP #行业应用 #服务业 #人力资源规划 #收入管理

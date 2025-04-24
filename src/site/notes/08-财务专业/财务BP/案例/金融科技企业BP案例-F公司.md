@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-财务专业/财务BP/案例/金融科技企业BP案例-F公司/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BP/案例/金融科技企业BP案例-F公司/","dgPassFrontmatter":true}
 ---
 
 # 金融科技企业BP案例分析：F公司的数字化转型与收入多元化

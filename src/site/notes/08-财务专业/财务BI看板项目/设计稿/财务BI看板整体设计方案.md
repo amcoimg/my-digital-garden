@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-财务专业/财务BI看板项目/设计稿/财务BI看板整体设计方案/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BI看板项目/设计稿/财务BI看板整体设计方案/","dgPassFrontmatter":true}
 ---
 
 #财务BI #系统设计 #看板整合

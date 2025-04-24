@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-财务专业/财务BI看板项目/设计稿/财务BI看板模块规划/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BI看板项目/设计稿/财务BI看板模块规划/","dgPassFrontmatter":true}
 ---
 
 #布局设计 #模块规划 #BI看板

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-财务专业/财务BP/案例/制造业BP案例-A公司/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BP/案例/制造业BP案例-A公司/","dgPassFrontmatter":true}
 ---
 
 # 制造业BP案例分析：A公司年度预算编制

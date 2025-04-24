@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-财务专业/财务BP/笔记/BP工具与模版/BP展示技巧/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BP/笔记/BP工具与模版/BP展示技巧/","dgPassFrontmatter":true}
 ---
 
 #财务BP #展示技巧 #沟通 #数据可视化 #管理报告

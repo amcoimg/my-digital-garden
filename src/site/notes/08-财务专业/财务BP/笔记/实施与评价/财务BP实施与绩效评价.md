@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-财务专业/财务BP/笔记/实施与评价/财务BP实施与绩效评价/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BP/笔记/实施与评价/财务BP实施与绩效评价/","dgPassFrontmatter":true}
 ---
 
 #财务BP #实施框架 #绩效评价 #滚动预算 #差异分析

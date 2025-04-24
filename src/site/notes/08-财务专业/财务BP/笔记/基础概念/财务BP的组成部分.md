@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-财务专业/财务BP/笔记/基础概念/财务BP的组成部分/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BP/笔记/基础概念/财务BP的组成部分/","dgPassFrontmatter":true}
 ---
 
 #财务BP #基础概念 #预算组成

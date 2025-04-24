@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-财务专业/财务BP/笔记/BP工具与模版/BP工具与模板/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BP/笔记/BP工具与模版/BP工具与模板/","dgPassFrontmatter":true}
 ---
 
 #财务BP #工具 #模板 #效率提升 #最佳实践

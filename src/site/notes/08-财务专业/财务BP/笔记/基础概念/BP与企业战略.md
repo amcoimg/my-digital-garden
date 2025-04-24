@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-财务专业/财务BP/笔记/基础概念/BP与企业战略/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BP/笔记/基础概念/BP与企业战略/","dgPassFrontmatter":true}
 ---
 
 #财务BP #基础概念 #企业战略 #战略规划

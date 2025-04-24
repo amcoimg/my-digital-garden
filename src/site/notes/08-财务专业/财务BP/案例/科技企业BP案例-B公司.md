@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-财务专业/财务BP/案例/科技企业BP案例-B公司/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BP/案例/科技企业BP案例-B公司/","dgPassFrontmatter":true}
 ---
 
 # 科技企业BP案例分析：B公司SaaS业务规划

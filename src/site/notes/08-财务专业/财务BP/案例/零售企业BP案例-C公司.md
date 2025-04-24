@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-财务专业/财务BP/案例/零售企业BP案例-C公司/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BP/案例/零售企业BP案例-C公司/","dgPassFrontmatter":true}
 ---
 
 # 零售企业BP案例分析：C公司多门店扩张规划

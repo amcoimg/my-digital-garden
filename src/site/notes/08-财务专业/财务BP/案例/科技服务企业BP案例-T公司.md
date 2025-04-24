@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-财务专业/财务BP/案例/科技服务企业BP案例-T公司/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BP/案例/科技服务企业BP案例-T公司/","dgPassFrontmatter":true}
 ---
 
 # 科技服务企业BP案例分析：T公司SaaS转型规划

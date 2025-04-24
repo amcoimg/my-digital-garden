@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-财务专业/财务BI看板项目/设计稿/财务BI看板实施与部署指南/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BI看板项目/设计稿/财务BI看板实施与部署指南/","dgPassFrontmatter":true}
 ---
 
 #财务BI #系统实施 #部署方案
