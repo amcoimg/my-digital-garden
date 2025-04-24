@@ -1,5 +1,5 @@
 ---
-{"tags":["财务BP","蒙特卡洛模拟","风险分析","概率模型"],"aliases":["蒙特卡洛分析","MC模拟","随机模拟"],"created":"2023-11-16","dg-publish":true,"permalink":"/08-财务专业/财务BP/学习内容/BP工具与模板/高级分析/Monte Carlo模拟工具/","dgPassFrontmatter":true}
+{"tags":["财务BP","蒙特卡洛模拟","风险分析","概率模型"],"aliases":"蒙特卡洛分析,MC模拟,随机模拟","created":"2023-11-16","dg-publish":true,"permalink":"/08-财务专业/财务BP/学习内容/BP工具与模板/高级分析/Monte Carlo模拟工具/","dgPassFrontmatter":true}
 ---
 
 
