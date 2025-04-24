@@ -1,5 +1,5 @@
 ---
-{"tags":["财务BP","基础概念","定义","预算规划","财务管理"],"aliases":["业务规划","财务计划","Business Plan"],"cssclass":"content","dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BP/学习内容/财务BP基础概念/BP定义与作用/财务BP的定义/","dgPassFrontmatter":true}
+{"tags":["财务BP","基础概念","定义","预算规划","财务管理"],"aliases":"业务规划,财务计划,Business Plan","cssclass":"content","dg-publish":true,"dg-home":false,"permalink":"/08-财务专业/财务BP/学习内容/财务BP基础概念/BP定义与作用/财务BP的定义/","dgPassFrontmatter":true}
 ---
 
 
