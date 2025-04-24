@@ -31,9 +31,9 @@ flowchart TD
     H[内部能力] --> |支撑| A
     H --> |约束| B
     
-    B <--> I[绩效管理]
-    B <--> J[资源配置]
-    B <--> K[风险管理]
+    B --- I[绩效管理]
+    B --- J[资源配置]
+    B --- K[风险管理]
     
     style A fill:#d0e0e3,stroke:#000,stroke-width:2px
     style B fill:#f9cb9c,stroke:#000,stroke-width:3px
