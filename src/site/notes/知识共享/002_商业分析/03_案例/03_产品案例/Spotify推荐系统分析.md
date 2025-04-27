@@ -2,9 +2,6 @@
 {"dg-publish":true,"tags":["商业分析","案例分析","Spotify","推荐系统"],"created":"2024-05-18","permalink":"/知识共享/002_商业分析/03_案例/03_产品案例/Spotify推荐系统分析/","dgPassFrontmatter":true}
 ---
 
-
-# Spotify推荐系统分析
-
 > [!quote] 概述
 > 本案例深入分析Spotify音乐推荐系统的技术架构、算法策略和商业价值，探讨其如何通过数据科学和机器学习提升用户体验并创造商业优势。案例聚焦Discover Weekly、Release Radar等核心产品功能，以及推荐系统与商业模式的协同演进。
 
