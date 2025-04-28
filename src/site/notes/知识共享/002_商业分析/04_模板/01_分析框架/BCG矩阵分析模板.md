@@ -89,19 +89,20 @@ BCG矩阵（Boston Consulting Group Matrix）是波士顿咨询集团开发的�
 ### 4.3 BCG矩阵可视化
 
 ```mermaid
-quadrantChart
-    title BCG矩阵分析图
-    x-axis 相对市场份额比率 --> 低 高
-    y-axis 市场增长率 --> 低 高
-    quadrant-1 明星(Stars)
-    quadrant-2 问题业务(Question Marks)
-    quadrant-3 瘦狗(Dogs)
-    quadrant-4 现金牛(Cash Cows)
-    [产品/业务1]: [相对份额值, 增长率值]
-    [产品/业务2]: [相对份额值, 增长率值]
-    [产品/业务3]: [相对份额值, 增长率值]
-    [产品/业务4]: [相对份额值, 增长率值]
-    [产品/业务5]: [相对份额值, 增长率值]
+graph TB
+    subgraph "高市场增长率"
+    A["明星(Stars)<br>产品/业务2"] --- B["问题业务(Question Marks)<br>产品/业务1"]
+    end
+    subgraph "低市场增长率"
+    C["现金牛(Cash Cows)<br>产品/业务3"] --- D["瘦狗(Dogs)<br>产品/业务4, 产品/业务5"]
+    end
+    A --- C
+    B --- D
+    
+    classDef high fill:#f9f,stroke:#333,stroke-width:2px
+    classDef low fill:#bbf,stroke:#333,stroke-width:2px
+    class A,B high
+    class C,D low
 ```
 
 ## 5. 详细分析与策略建议
