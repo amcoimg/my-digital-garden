@@ -89,20 +89,21 @@ BCG矩阵（Boston Consulting Group Matrix）是波士顿咨询集团开发的�
 ### 4.3 BCG矩阵可视化
 
 ```mermaid
-graph TB
+graph TD
     subgraph "高市场增长率"
-    A["明星(Stars)<br>产品/业务2"] --- B["问题业务(Question Marks)<br>产品/业务1"]
+    A["问题业务<br>(Question Marks)"] --- B["明星<br>(Stars)"]
     end
     subgraph "低市场增长率"
-    C["现金牛(Cash Cows)<br>产品/业务3"] --- D["瘦狗(Dogs)<br>产品/业务4, 产品/业务5"]
+    C["瘦狗<br>(Dogs)"] --- D["现金牛<br>(Cash Cows)"]
     end
+    
     A --- C
     B --- D
     
-    classDef high fill:#f9f,stroke:#333,stroke-width:2px
-    classDef low fill:#bbf,stroke:#333,stroke-width:2px
-    class A,B high
-    class C,D low
+    style A fill:#FFF9C4,stroke:#FFC107
+    style B fill:#BBDEFB,stroke:#2196F3
+    style C fill:#FFCDD2,stroke:#F44336
+    style D fill:#C8E6C9,stroke:#4CAF50
 ```
 
 ## 5. 详细分析与策略建议
